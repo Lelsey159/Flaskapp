@@ -2,4 +2,5 @@ virtual/
 *.pyc
 __pycache__
 flask/
+instance/
 
